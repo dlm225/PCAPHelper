@@ -9,7 +9,7 @@ echo.
 echo ***********************************************************************
 echo ***************************** PCAP HELPER *****************************
 echo *****************************    v.0.5    *****************************
-echo *************************** by David Morgan ***************************
+echo *************************** by David Morgan (aka: "r0m")***************
 echo ***********************************************************************
 echo.
 
@@ -155,7 +155,7 @@ echo.
 set /p mergedfilename=Input desired merged pcap filename:
 echo mergecap %1 %2 %3 %4 %5 %6 %7 %8 %9 -w %mergedfilename%
 mergecap %1 %2 %3 %4 %5 %6 %7 %8 %9 -w %mergedfilename%
-echo.
+echo working....
 echo.
 echo Mergecap COMPLETE
 echo.
