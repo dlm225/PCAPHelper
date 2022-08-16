@@ -9,7 +9,7 @@ Through a lot of trial and error, and some not-so-scientific studying on the top
 ## USAGE
 These are batch (.bat) files for use in Windows. Use them however you want, but they were designed to be on the Desktop for quick access - especially drag-and-drop actions.
 
-The main pcaphelper_vX.X.bat is best used inside of a folder/directory with stored pcaps. This is due to the capabilities of the SEARCH function which iterates over every .pcap file in the folder.  If you attempted to use the script outside the folder, you would have to aim the script at a folder, which is prone to typos and simply takes too much time. These scripts have been optimized for speed - I use them in packet analysts CTFs, so I scripted them around my methodologies for packet analysis in such and environment.
+The main pcaphelper_vX.X.bat is best used inside of a folder/directory with stored pcaps. This is due to the capabilities of the SEARCH function which iterates over every .pcap file in the folder.  If you attempted to use the script outside the folder, you would have to aim the script at a folder, which is prone to typos and simply takes too much time. These scripts have been optimized for speed - I use them in packet analysis CTFs, so I scripted them around my methodologies for packet analysis in such and environment.
 
 pcaphelper_vX.X.bat should be used directly in the folders containing your target pcap.  All other .bat files are best placed either on the desktop or together in a folder. For all .bat files, you can drag-and-drop your target pcap file(s) right onto the icon for the .bat script (again - time saving so you don't have to type out the complete path).  For merging .bats, they will currently accept up to 9 pcap files at a time.
 
